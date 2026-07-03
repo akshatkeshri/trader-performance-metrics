@@ -12,7 +12,6 @@ An exploratory data analysis (EDA) investigating the relationship between retail
 
 ## Project Structure
 ```text
-├── data/                  # Local data storage (Excluded from version control via .gitignore)
-├── notebooks/             # Core data science workflows
-│   └── sentiment_trader_analysis.ipynb
-└── README.md              # Project executive summary and documentation
+├── .gitignore
+├── README.md
+└── sentiment_trader_analysis.ipynb
